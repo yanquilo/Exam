@@ -1,0 +1,25 @@
+C:\Users\Profesor.PCPROFESOR\source\repos\tablero\tablero\bin\Debug\tablero.exe.config
+C:\Users\Profesor.PCPROFESOR\source\repos\tablero\tablero\bin\Debug\tablero.exe
+C:\Users\Profesor.PCPROFESOR\source\repos\tablero\tablero\bin\Debug\tablero.pdb
+C:\Users\Profesor.PCPROFESOR\source\repos\tablero\tablero\obj\Debug\tablero.csprojAssemblyReference.cache
+C:\Users\Profesor.PCPROFESOR\source\repos\tablero\tablero\obj\Debug\tablero.csproj.CoreCompileInputs.cache
+C:\Users\Profesor.PCPROFESOR\source\repos\tablero\tablero\obj\Debug\tablero.exe
+C:\Users\Profesor.PCPROFESOR\source\repos\tablero\tablero\obj\Debug\tablero.pdb
+F:\Ciclo nuevo\pro\rogue\tablero\tablero\bin\Debug\tablero.exe.config
+F:\Ciclo nuevo\pro\rogue\tablero\tablero\bin\Debug\tablero.exe
+F:\Ciclo nuevo\pro\rogue\tablero\tablero\bin\Debug\tablero.pdb
+F:\Ciclo nuevo\pro\rogue\tablero\tablero\obj\Debug\tablero.csprojAssemblyReference.cache
+F:\Ciclo nuevo\pro\rogue\tablero\tablero\obj\Debug\tablero.exe
+F:\Ciclo nuevo\pro\rogue\tablero\tablero\obj\Debug\tablero.pdb
+F:\Ciclo nuevo\pro\PROYECTO2º\tablero\tablero\bin\Debug\tablero.exe.config
+F:\Ciclo nuevo\pro\PROYECTO2º\tablero\tablero\bin\Debug\tablero.exe
+F:\Ciclo nuevo\pro\PROYECTO2º\tablero\tablero\bin\Debug\tablero.pdb
+F:\Ciclo nuevo\pro\PROYECTO2º\tablero\tablero\obj\Debug\tablero.csprojAssemblyReference.cache
+F:\Ciclo nuevo\pro\PROYECTO2º\tablero\tablero\obj\Debug\tablero.exe
+F:\Ciclo nuevo\pro\PROYECTO2º\tablero\tablero\obj\Debug\tablero.pdb
+F:\PROYECTO2º\tablero\tablero\bin\Debug\tablero.exe.config
+F:\PROYECTO2º\tablero\tablero\bin\Debug\tablero.exe
+F:\PROYECTO2º\tablero\tablero\bin\Debug\tablero.pdb
+F:\PROYECTO2º\tablero\tablero\obj\Debug\tablero.csprojAssemblyReference.cache
+F:\PROYECTO2º\tablero\tablero\obj\Debug\tablero.exe
+F:\PROYECTO2º\tablero\tablero\obj\Debug\tablero.pdb
