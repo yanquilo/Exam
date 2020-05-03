@@ -23,3 +23,12 @@ F:\PROYECTO2º\tablero\tablero\bin\Debug\tablero.pdb
 F:\PROYECTO2º\tablero\tablero\obj\Debug\tablero.csprojAssemblyReference.cache
 F:\PROYECTO2º\tablero\tablero\obj\Debug\tablero.exe
 F:\PROYECTO2º\tablero\tablero\obj\Debug\tablero.pdb
+F:\Ciclo nuevo\ETS\Examenes\CV\tablero\tablero\bin\Debug\tablero.exe.config
+F:\Ciclo nuevo\ETS\Examenes\CV\tablero\tablero\bin\Debug\tablero.xml
+F:\Ciclo nuevo\ETS\Examenes\CV\tablero\tablero\bin\Debug\tablero.exe
+F:\Ciclo nuevo\ETS\Examenes\CV\tablero\tablero\bin\Debug\tablero.pdb
+F:\Ciclo nuevo\ETS\Examenes\CV\tablero\tablero\bin\Debug\tablero.exe.CodeAnalysisLog.xml
+F:\Ciclo nuevo\ETS\Examenes\CV\tablero\tablero\bin\Debug\tablero.exe.lastcodeanalysissucceeded
+F:\Ciclo nuevo\ETS\Examenes\CV\tablero\tablero\obj\Debug\tablero.csprojAssemblyReference.cache
+F:\Ciclo nuevo\ETS\Examenes\CV\tablero\tablero\obj\Debug\tablero.exe
+F:\Ciclo nuevo\ETS\Examenes\CV\tablero\tablero\obj\Debug\tablero.pdb
