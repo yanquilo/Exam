@@ -53,17 +53,22 @@ namespace tablero
 
                 bool puedecoger;
 
-                puedecoger = mochila.TryAdd(mapa.celdas[x, y].objeto); // meto en la mochila
+                // Meto en la mochila.
+
+                puedecoger = mochila.TryAdd(mapa.celdas[x, y].objeto);
 
                 if (puedecoger==true)
                 {
-                    mapa.celdas[x, y].objeto = null; // quito del suelo
+
+                    // Quito del suelo.
+
+                    mapa.celdas[x, y].objeto = null; 
                 }
             }
         }
 
-        //Verificamos que no atraviese los muros 
-        public void Move(int incX, int incY)
+        // Verificamos que no atraviese los muros.
+        public void Move(int incX, int incY)  
         {
             int nuevax, nuevay;
 
